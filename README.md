@@ -1,2 +1,1 @@
-# MLBBACADEMY.github.io
-Just tips and trick
+index.html
